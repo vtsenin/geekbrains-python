@@ -1,0 +1,7 @@
+print(bool(10 > 5))
+print(bool(0))
+print(bool("0"))
+print(bool("False"))
+print(bool(-20))
+print(bool(None))
+print(bool(""))
